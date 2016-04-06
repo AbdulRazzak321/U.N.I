@@ -20,7 +20,7 @@
 
 /**
  * MAIN COLORS
- * green           = #993333
+ * green           = #e76b6b
  * alternate green = #5cadad
  */
 
@@ -83,7 +83,7 @@ a {
     vertical-align:baseline;
     background:transparent;
     text-decoration: none;
-    color: #993333;
+    color: #e76b6b;
     transition: color 0.3s;
     -webkit-transition: color 0.3s;
 }
@@ -233,7 +233,7 @@ p {
 }
 
 #followMenu .mainMenu li a:hover, #followMenu .mainMenu .menuActive a{
-    background: #993333 !important;
+    background: #e76b6b !important;
     color: #fff !important;
 }
 
@@ -282,7 +282,7 @@ p {
     z-index: 20;
     padding: 10px;
     font-size: 30px;
-    background: #993333;
+    background: #e76b6b;
     display: none;
 }
 
@@ -359,14 +359,14 @@ p {
 .sectionTitle:hover h1 {
     font-size: 70px;
     
-    color: #993333;
+    color: #e76b6b;
 }
 
 .titleSeparator {
     width: 40px;
     height: 4px;
     margin: 20px auto;
-    background: #993333;
+    background: #e76b6b;
 }
 
 .grayBgSection, .whiteBgSection {
@@ -441,8 +441,8 @@ p {
 .iconColWrap i.fa {
     min-width: 30px;
     font-size: 32px;
-    border: 2px solid #993333;
-    color: #993333;
+    border: 2px solid #e76b6b;
+    color: #e76b6b;
     padding: 40px;
     background: transparent;
     -webkit-border-radius: 350px;
@@ -458,7 +458,7 @@ p {
 
 .iconColWrap:hover i.fa {
     color: #fff;
-    background: #993333;
+    background: #e76b6b;
 }
 
 .iconColWrap h2 {
@@ -471,7 +471,7 @@ p {
 }
 
 .iconColWrap:hover h2 {
-    color: #993333;
+    color: #e76b6b;
 }
 
 
@@ -505,8 +505,8 @@ p {
 
 .iconRightColWrap i.fa {
     font-size: 32px;
-    border: 2px solid #993333;
-    color: #993333;
+    border: 2px solid #e76b6b;
+    color: #e76b6b;
     padding: 25px;
     background: transparent;
     -webkit-border-radius: 350px;
@@ -522,7 +522,7 @@ p {
 
 .iconRightColWrap:hover i.fa {
     color: #fff;
-    background: #993333;
+    background: #e76b6b;
 }
 
 .iconRightColWrap h2 {
@@ -535,7 +535,7 @@ p {
 }
 
 .iconRightColWrap:hover h2 {
-    color: #993333;
+    color: #e76b6b;
 }
 
 
@@ -569,8 +569,8 @@ p {
 
 .iconLeftColWrap i.fa {
     font-size: 32px;
-    border: 2px solid #993333;
-    color: #993333;
+    border: 2px solid #e76b6b;
+    color: #e76b6b;
     padding: 25px;
     background: transparent;
     -webkit-border-radius: 350px;
@@ -586,7 +586,7 @@ p {
 
 .iconLeftColWrap:hover i.fa {
     color: #fff;
-    background: #993333;
+    background: #e76b6b;
 }
 
 .iconLeftColWrap h2 {
@@ -599,7 +599,7 @@ p {
 }
 
 .iconLeftColWrap:hover h2 {
-    color: #993333;
+    color: #e76b6b;
 }
 
 .iconLeftColWrap p {
@@ -737,7 +737,7 @@ p {
 }
 
 .revText {
-    color: #993333;
+    color: #e76b6b;
     font-weight: 300;
     font-size: 30px;
     line-height: 38px;
@@ -799,7 +799,7 @@ p {
 }
 
 .screenImg:hover {
-    border-color: #993333;
+    border-color: #e76b6b;
 }
 
 #screensViewportWrap {
@@ -864,8 +864,8 @@ button, input[type="submit"] {
 
 button.active, button:hover, input[type="submit"]:hover {
     color: #fff;
-    background: #993333;
-    border-color: #993333;
+    background: #e76b6b;
+    border-color: #e76b6b;
 }
 
 .screensArrows {
@@ -898,7 +898,7 @@ button.active, button:hover, input[type="submit"]:hover {
 .screensArrowsActive:hover {
     color: #fff;
     border-color: #fff;
-    background: #993333;
+    background: #e76b6b;
 }
 
 #screensLeftAr i {
@@ -986,21 +986,21 @@ textarea {
 
 input:focus, textarea:focus {
     outline: 0 transparent;
-    border-color: #993333;
+    border-color: #e76b6b;
 }
 
 input[type="submit"]  {
     font-size: 18px;
     padding: 15px 50px;
     margin: 0;
-    color: #993333;
-    border-color: #993333;
+    color: #e76b6b;
+    border-color: #e76b6b;
 }
 
 .del-fa {
     font-size: 26px;
-    border: 2px solid #993333;
-    color: #993333;
+    border: 2px solid #e76b6b;
+    color: #e76b6b;
     padding: 12px;
     min-width: 26px;
     text-align: center;
@@ -1068,7 +1068,7 @@ input[type="submit"]  {
 }
 
 .footer i.fa:hover {
-    color: #993333;
+    color: #e76b6b;
     background: #fff;
 }
 
